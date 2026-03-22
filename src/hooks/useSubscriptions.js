@@ -28,11 +28,8 @@ export function useSubscriptions() {
       return next
     })
 
-    const workerUrl = import.meta.env.VITE_WORKER_URL
-    if (!workerUrl) return { success: true }
-
     try {
-      const res = await fetch(`${workerUrl}/subscribe`, {
+      const res = await fetch('https://marunthon-cron-worker.w2495969292.workers.dev/subscribe', {
         method: 'POST',
         headers: { 'Content-Type': 'application/json' },
         body: JSON.stringify({
