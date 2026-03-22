@@ -1,0 +1,30 @@
+[
+  {
+    "id": "boston-2026",
+    "name": "Boston Marathon 2026",
+    "location": "Boston, MA, USA",
+    "raceDate": "2026-04-20",
+    "registrationOpenDate": "2025-09-10",
+    "registrationCloseDate": "2025-10-15",
+    "distance": "42.195 km",
+    "capacity": 30000,
+    "fee": "$260",
+    "website": "https://www.baa.org",
+    "status": "upcoming",
+    "description": "The Boston Marathon is the world's oldest annual marathon and one of the most prestigious road racing events. Held on Patriots' Day in April, the point-to-point course from Hopkinton to downtown Boston is legendary for the Heartbreak Hill series and the electric finish on Boylston Street. A qualifying time is required to enter."
+  },
+  {
+    "id": "tokyo-2026",
+    "name": "Tokyo Marathon 2026",
+    "location": "Tokyo, Japan",
+    "raceDate": "2026-03-01",
+    "registrationOpenDate": "2025-05-12",
+    "registrationCloseDate": "2025-06-08",
+    "distance": "42.195 km",
+    "capacity": 38000,
+    "fee": "¥20,300",
+    "website": "https://www.marathon.tokyo",
+    "status": "completed",
+    "description": "The Tokyo Marathon is a World Marathon Major held in the heart of Japan's capital city. Runners pass iconic landmarks including Tokyo Tower, Asakusa, and the Imperial Palace. The lottery-based entry draws hundreds of thousands of applicants each year for one of Asia's most celebrated races."
+  }
+]

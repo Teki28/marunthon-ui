@@ -1,0 +1,31 @@
+rank,name,city,country,official_website
+1,Boston Marathon,Boston MA,USA,https://www.baa.org
+2,Tokyo Marathon,Tokyo,Japan,https://www.marathon.tokyo
+3,London Marathon,London,UK,https://www.londonmarathonevents.co.uk
+4,Berlin Marathon,Berlin,Germany,https://www.bmw-berlin-marathon.com
+5,Chicago Marathon,Chicago IL,USA,https://www.chicagomarathon.com
+6,New York City Marathon,New York NY,USA,https://www.nyrr.org/tcsnycmarathon
+7,Sydney Marathon,Sydney,Australia,https://www.sydneymarathon.com
+8,Valencia Marathon,Valencia,Spain,https://valenciaciudaddelrunning.com
+9,California International Marathon,Sacramento CA,USA,https://www.runcim.org
+10,Seville Marathon,Seville,Spain,https://zurichmaratonsevilla.es
+11,Frankfurt Marathon,Frankfurt,Germany,https://www.frankfurt-marathon.com
+12,Amsterdam Marathon,Amsterdam,Netherlands,https://www.tcsamsterdammarathon.nl
+13,Rotterdam Marathon,Rotterdam,Netherlands,https://www.nn-marathon.com
+14,Dubai Marathon,Dubai,UAE,https://www.dubaimarathon.org
+15,Paris Marathon,Paris,France,https://www.schneiderelectricparismarathon.com
+16,Seoul Marathon,Seoul,South Korea,https://www.seoulmarathon.org
+17,Cape Town Marathon,Cape Town,South Africa,https://www.capetownmarathon.com
+18,Stockholm Marathon,Stockholm,Sweden,https://www.stockholmmarathon.se
+19,Vienna City Marathon,Vienna,Austria,https://www.vienna-marathon.com
+20,Athens Classic Marathon,Athens,Greece,https://www.athensauthenticmarathon.gr
+21,Milan Marathon,Milan,Italy,https://www.milanomarathon.it
+22,Lisbon Marathon,Lisbon,Portugal,https://www.lisboamarathon.com
+23,Hamburg Marathon,Hamburg,Germany,https://www.haspa-marathon-hamburg.de
+24,Indianapolis Monumental Marathon,Indianapolis IN,USA,https://www.monumentalmarathon.com
+25,Gold Coast Marathon,Gold Coast,Australia,https://www.goldcoastmarathon.com.au
+26,Honolulu Marathon,Honolulu HI,USA,https://www.honolulumarathon.org
+27,Sao Paulo Marathon,São Paulo,Brazil,https://www.maratonasaopaulo.com.br
+28,Toronto Waterfront Marathon,Toronto,Canada,https://www.torontowaterfrontmarathon.com
+29,Zurich Marathon,Zurich,Switzerland,https://www.zurichmarathon.ch
+30,La Rochelle Marathon,La Rochelle,France,https://www.marathondelarochelle.com

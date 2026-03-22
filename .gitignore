@@ -1,0 +1,8 @@
+node_modules/
+dist/
+util/.env
+.env.local
+.env.local.example
+*.md
+resources/
+.env.example
